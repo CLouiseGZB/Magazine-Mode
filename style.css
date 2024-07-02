@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.head{
+    height: 100PX;
+    background-color: brown;
+    margin: auto;
+    padding: 20px;
+    justify-content: space-around;
+}
+.head_left{
+    width: 100PX;
+    height: 80px;
+    float: left;
+}
+.logo{
+    background-color: aliceblue;
+    width: 100PX;
+    height: 80px;
+    align-items: center;
+}
+.head_right{    
+    width: 100PX;
+    height: 80px; 
+    float: right;
+}
+.cherche{
+    width: 100px;
+    height: 20px;
+    border: 1px solid gray;
+    border-radius: 0.5rem;
+}
+.menu{
+    height: 50PX;
+    font-size: 20px;
+    color: black;
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+    justify-content: space-around;
+    align-items: center;
+}
+.pub{
+    height: 300PX;
+    background-color:rgb(69, 160, 53);
+    margin: auto;
+    padding: 5px;
+}
+.title{
+    font-size: 30PX;
+}
+.titre1{
+    height: 300PX;
+    margin: auto;
+    padding: 5px;
+}
+.titre3{
+    height: 30em;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 13px;
+
+}
+
+
+
+figure img{
+    height: 20em;
+    padding: 15px;
+}
+
+figcaption{
+    padding: 15px;
+    font-size: 1.5em;
+}
+
+#ftr{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+
+footer{
+    height: 15em;
+}
+
+#fin{
+    text-align: center;
+}
+
